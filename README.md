@@ -1,12 +1,6 @@
 # 🚆 RailBooker - Railway Reservation System
 
-**RailBooker** is a web-based Railway Reservation System that allows users to view train information, book tickets, and manage their profiles. The system also includes an admin interface to manage train listings.
-
-🔗 **Live Site**: [http://railbooker.devbyabhishek.infinityfreeapp.com/](http://railbooker.devbyabhishek.infinityfreeapp.com/)  
-📂 **GitHub Repository**: [https://github.com/Abhishek-soni6904/RailBooker-RTS](https://github.com/Abhishek-soni6904/RailBooker-RTS)  
 🗝️ **Admin Credentials**: ```gmail: admin@gmail.com password: 123```
-
----
 
 ## ✨ Features
 
